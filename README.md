@@ -23,13 +23,13 @@ This project is a study related to computer graphics, more specifically how to i
 <table width="100%">
     <tr>
         <td>
-            <img src="./screenshots/bezier-curves-1.png" />
+            <img src="./screenshots/bezier-curves-1.PNG" />
         </td>
         <td>
-            <img src="./screenshots/bezier-curves-2.png" />
+            <img src="./screenshots/bezier-curves-2.PNG" />
         </td>
         <td>
-            <img src="./screenshots/bezier-curves-3.png" />
+            <img src="./screenshots/bezier-curves-3.PNG" />
         </td>         
     </tr>
 </table>
