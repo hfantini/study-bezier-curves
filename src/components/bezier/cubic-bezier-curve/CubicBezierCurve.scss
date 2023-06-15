@@ -1,0 +1,20 @@
+@import "../../../sass/shared.scss";
+
+.CubicBezierCurve
+{
+    display: flex;
+    flex-direction: row;
+
+    .CubicBezierCurveRight
+    {
+        margin-left: 12px;
+        padding: 12px;
+        background-color: $color-2;
+
+        .CubicBezierCurveFormula
+        {
+            width: 400px;
+            height: auto;
+        }
+    }    
+}

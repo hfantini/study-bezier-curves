@@ -1,0 +1,25 @@
+@import "../../../sass/shared.scss";
+
+.QuadraticBezierCurve
+{
+    display: flex;
+    flex-direction: row;
+
+    .QuadraticBezierCurveLeft
+    {
+        background-color: $color-1;
+    }
+
+    .QuadraticBezierCurveRight
+    {
+        margin-left: 12px;
+        padding: 12px;
+        background-color: $color-2;
+
+        .QuadraticBezierCurveFormula
+        {
+            width: 300px;
+            height: auto;
+        }
+    }    
+}

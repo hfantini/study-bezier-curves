@@ -1,0 +1,25 @@
+@import "../../../sass/shared.scss";
+
+.LinearBezierCurve
+{
+    display: flex;
+    flex-direction: row;
+
+    .LinearBezierCurveLeft
+    {
+        background-color: $color-1;
+    }
+
+    .LinearBezierCurveRight
+    {
+        margin-left: 12px;
+        padding: 12px;
+        background-color: $color-2;
+
+        .LinearBezierCurveFormula
+        {
+            width: 200px;
+            height: auto;
+        }
+    }    
+}
